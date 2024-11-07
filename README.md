@@ -83,11 +83,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=matanguihanbenson&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matanguihanbenson&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###ight="200" src="https://i.pinimg.com/originals/a0/50/34/a050342aa80f73199b7ff03eae27a316.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/matanguihanbenson/matanguihanbenson/output/snake.svg" alt="Snake animation" />
-
-###
