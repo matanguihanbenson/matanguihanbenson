@@ -76,7 +76,7 @@
 ###
 
 <div align="left">
- <div align="left">
+ <div align="left" width="400">
 <img align="left" height="100" src="https://i.pinimg.com/originals/a0/50/34/a050342aa80f73199b7ff03eae27a316.gif"  align="left" style="margin-right:10px;"/> 
    </div>
   <div align="left">
