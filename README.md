@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 </p>
 <h4 align="center">Welcome to my Profile</h4>
-<h1>I am Mark Benson Matanguihan</h1>
+<h1 align="center">I am Mark Benson Matanguihan</h1>
 
 <h3 align="left">Technologies</h3>
 
