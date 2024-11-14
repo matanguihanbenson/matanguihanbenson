@@ -1,9 +1,9 @@
 <h2 align="left">Mark Benson Matanguihan</h2>
 
 ###
-
+<p align="center">
 <img src="https://github.com/koddsson/koddsson/blob/main/welcome-to-my-profile.gif?raw=true">
-
+</p>
 ###
 
 
