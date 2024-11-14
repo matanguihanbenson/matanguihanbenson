@@ -1,8 +1,9 @@
-<h2 align="left">Mark Benson Matanguihan</h2>
+
 
 ###
 <p align="center">
-<img src="https://github.com/koddsson/koddsson/blob/main/welcome-to-my-profile.gif?raw=true">
+<img src="[https://github.com/koddsson/koddsson/blob/main/welcome-to-my-profile.gif?raw=true](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)">
+  <h2>Mark Benson Matanguihan</h2>
 </p>
 
 
