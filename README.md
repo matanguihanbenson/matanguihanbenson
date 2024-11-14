@@ -71,9 +71,6 @@
 ###
 
 <div align="left">
-
-<img align="left" height="100" src="https://i.pinimg.com/originals/a0/50/34/a050342aa80f73199b7ff03eae27a316.gif" style="margin: 20px;"/> 
-  
   <h3 align="left">Profile Views</h3>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=matanguihanbenson.matanguihanbenson&" style="margin: 20px;"/>
 </div>
