@@ -4,7 +4,6 @@
 <p align="center">
 <img src="https://github.com/koddsson/koddsson/blob/main/welcome-to-my-profile.gif?raw=true">
 </p>
-###
 
 
 <h3 align="left">Technologies</h3>
