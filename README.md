@@ -5,10 +5,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 </p>
 
-<h1 align="center">get to know me</h1>
+<!--<h1 align="center">get to know me</h1>-->
 
 
-<h3 align="left">Technologies</h3>
+<h3 align="left">Tools and Technologies</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
