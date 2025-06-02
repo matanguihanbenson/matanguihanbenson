@@ -2,7 +2,7 @@
 
 ###
 <p align="center">
-<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%">
+<img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg4NTAwNTgsIm5iZiI6MTc0ODg0OTc1OCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAyVDA3MzU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5NmViYWZlNWJmNTI4NzYxOGEyMDk5ZGY3OTdiN2JkZGYxZDAxYTkwNzc4OWZkMDg2ZTU5YzY4MjI5MzMwYTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6ij2vvg8yhtlv3WNGCXz-1hyfjhKbfkOqpJGME-5ftk" width="100%">
 </p>
 
 <h3 align="left">Tools and Technologies</h3>
