@@ -65,7 +65,7 @@
 </div>
 -----
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-<div height="20"></div>
+
 ###
 
 <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="100">
