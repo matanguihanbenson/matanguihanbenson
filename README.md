@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" height="100">
+<img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="100">
 
 <div align="left">
   <h3 align="left">Profile Views</h3>
