@@ -8,10 +8,14 @@
 <div width="100%">
 
   <div width="50%">
+    
     ![](https://github-readme-stats.vercel.app/api?username=matanguihanbenson&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+    
   </div>
 <div width="50%">
+  
   ![](https://nirzak-streak-stats.vercel.app/?user=matanguihanbenson&theme=dark&hide_border=false)
+  
 </div><br/>
 </div>
 
