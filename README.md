@@ -7,12 +7,12 @@
 
 <div width="100%">
 
-  <div width="50%" style="float:left;">
+  <div width="50%" style="float:left;" align="left">
     
   ![](https://github-readme-stats.vercel.app/api?username=matanguihanbenson&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   
   </div>
-<div width="50%">
+<div width="50%" style="float:left;">
   
   ![](https://nirzak-streak-stats.vercel.app/?user=matanguihanbenson&theme=dark&hide_border=false)
   
