@@ -5,7 +5,7 @@
 
 ###
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=matanguihanbenson&theme=dark&hide_border=false)
+  
   
 <h3 align="left">Tools and Technologies</h3>
 
