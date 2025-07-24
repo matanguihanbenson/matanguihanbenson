@@ -1,4 +1,3 @@
-<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=matanguihanbenson&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
@@ -8,6 +7,15 @@
 ## 🛠️ Tools & Technologies
 
 <table>
+  <tr>
+    <td valign="top"><b>Programming Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="Python"/>
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28" alt="Java"/>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="C++"/>
+      <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="28" alt="C#"/>
+    </td>
+  </tr>
   <tr>
     <td valign="top"><b>Frontend</b></td>
     <td>
@@ -22,20 +30,17 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="28" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="Python"/>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="28" alt="Django"/>
-      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="C++"/>
-      <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="28" alt="C#"/>
-    </td>
-  </tr>
-  <tr>
     <td valign="top"><b>Mobile Development</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="Flutter"/>
       <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28" alt="Java"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="28" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="28" alt="Django"/>
     </td>
   </tr>
   <tr>
