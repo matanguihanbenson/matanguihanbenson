@@ -32,6 +32,13 @@
     </td>
   </tr>
   <tr>
+    <td valign="top"><b>Mobile Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28" alt="Java"/>
+    </td>
+  </tr>
+  <tr>
     <td valign="top"><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="MySQL"/>
