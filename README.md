@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <table>
   <tr>
