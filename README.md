@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=matanguihanbenson&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
+
 ###
-<div style="text-align: center;text-decoration:none;display:flex;justify-content:center;align-items:center;">
+
+<div align="center">
   <a href="https://facebook.com/bensonmark1109">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
