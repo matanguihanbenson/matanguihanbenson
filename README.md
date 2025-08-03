@@ -2,14 +2,12 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=matanguihanbenson&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
-###
+ ### 
 <p align="center">
   
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bensonmark1109) 
-  
-  [![Instagram]  (https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bensonm09) 
-  
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bensonmark1109)   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-benson-matanguihan) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bensonm09) 
   
 </p>
 ---
