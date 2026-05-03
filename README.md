@@ -1,94 +1,72 @@
+<h1 align="center">Hi, I'm Mark Benson</h1>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matanguihanbenson&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  Full-Stack Developer • UI/UX Designer • Builder
 </p>
 
-###
-
-<div align="center">
-
-  <a href="https://facebook.com/bensonmark1109">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/mark-benson-matanguihan">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/bensonm09">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/matanguihanbenson/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/bensonm09">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.figma.com/@bensonmark09">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
-  </a>
-
-</div>
-
-## Tools & Technologies
-
-<table>
-  <tr>
-    <td valign="top"><b>Programming Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="Python"/>
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28" alt="Java"/>
-      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="C++"/>
-      <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="28" alt="C#"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="28" alt="ReactJS"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="Bootstrap"/>
-      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="TailwindCSS"/>
-      <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="28" alt="Sass"/>
-      <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="28" alt="Material UI"/>
-      <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="28" alt="jQuery"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Mobile Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="Flutter"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="28" alt="PHP"/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="28" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="28" alt="Django"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Database / BaaS</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="28" alt="Firebase"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Design</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="28" alt="Adobe Illustrator"/>
-      <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="28" alt="Adobe Photoshop"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  I build modern web and mobile applications with a focus on clean design, performance, and real-world usability.
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="100">
+  <img src="https://streak-stats.demolab.com?user=matanguihanbenson&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## About Me
+
+- Focused on **full-stack development & UI/UX design**  
+- Passionate about building clean, user-centered digital experiences  
+- Ambitious and goal-driven, always working toward long-term growth  
+- Committed to continuous learning and improving my craft  
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://facebook.com/bensonmark1109"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/mark-benson-matanguihan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://instagram.com/bensonm09"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://leetcode.com/u/matanguihanbenson/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge"/></a>
+  <a href="https://www.hackerrank.com/profile/bensonm09"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.figma.com/@bensonmark09"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+---
+
+## Tech Stack
+
+### Core
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge"/>
+</p>
+
+### Other Tools
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
+</p>
+
+### Design
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge"/>
+</p>
+
+---
+
+## Featured Projects
+
+> You should replace these with your actual best projects
+
+- **AGOS System** – an integrated platform consisting of a web dashboard and mobile application that visualize and manage data generated from a trash-collecting bot simulation. The simulation models environmental conditions, detects and classifies waste, and provides real-time insights through the system interfaces.
 
 ---
 
