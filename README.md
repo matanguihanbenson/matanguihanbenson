@@ -10,7 +10,6 @@
   
 </div>
 
-
 ## Tools & Technologies
 
 <table>
@@ -29,6 +28,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="CSS3"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="28" alt="ReactJS"/>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="Bootstrap"/>
       <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="TailwindCSS"/>
       <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="28" alt="Sass"/>
@@ -46,14 +46,16 @@
     <td valign="top"><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="28" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="28" alt="Laravel"/>
       <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="28" alt="Django"/>
     </td>
   </tr>
   <tr>
-    <td valign="top"><b>Database</b></td>
+    <td valign="top"><b>Database / BaaS</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="MySQL"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="28" alt="Firebase"/>
     </td>
   </tr>
   <tr>
@@ -64,6 +66,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" height="100">
+</p>
 
 ---
 
