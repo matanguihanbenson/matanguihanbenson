@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matanguihanbenson&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=matanguihanbenson&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
 ###
