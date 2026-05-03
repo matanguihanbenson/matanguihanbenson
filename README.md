@@ -4,14 +4,26 @@
 
 ###
 
-<div align="center" style="text-decoration:none;">
+<div align="center">
 
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bensonmark1109)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-benson-matanguihan)  
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bensonm09)  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat)](https://leetcode.com/u/matanguihanbenson/)  
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/profile/bensonm09)  
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat)](https://www.figma.com/@bensonmark09)
+  <a href="https://facebook.com/bensonmark1109">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mark-benson-matanguihan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/bensonm09">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/matanguihanbenson/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/bensonm09">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.figma.com/@bensonmark09">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+  </a>
 
 </div>
 
