@@ -64,8 +64,6 @@
 
 ## Featured Projects
 
-> You should replace these with your actual best projects
-
 - **AGOS System** – an integrated platform consisting of a web dashboard and mobile application that visualize and manage data generated from a trash-collecting bot simulation. The simulation models environmental conditions, detects and classifies waste, and provides real-time insights through the system interfaces.
 
 ---
